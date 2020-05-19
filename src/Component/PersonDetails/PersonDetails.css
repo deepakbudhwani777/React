@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+  
+  }
+
+.personDetails{
+  border: 1 px solid green;
+  padding: 20px;
+}
+
+.logout{
+  cursor: pointer;
+    display: block;
+    position: relative;
+    background-color: red;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    margin-left: 40%;
+}
